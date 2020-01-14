@@ -1,0 +1,4 @@
+﻿  File.cpp
+C:\Users\nishimura\source\repos\merge\merge\File.cpp(50,11): warning C4244:  'return': 'fpos_t' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\nishimura\source\repos\merge\merge\File.cpp(53): warning C4715:  'File::GetSize': 値を返さないコントロール パスがあります。
+  merge.vcxproj -> C:\Users\nishimura\source\repos\merge\Debug\merge.exe
